@@ -1,6 +1,6 @@
 # Roadmap: Do Zero a Desenvolvedor de Software
 
-## 🎯 Fase 1: Fundamentos da Computação (2-3 meses)
+## 🎯 Fase 1: Fundamentos da Computação
 
 ### Lógica e Pensamento Computacional
 - **Lógica Booleana**: operadores AND, OR, NOT, XOR
@@ -18,7 +18,7 @@
 - Operações básicas em diferentes bases
 - Representação de dados na memória
 
-## 🔧 Fase 2: Programação Básica (3-4 meses)
+## 🔧 Fase 2: Programação Básica
 
 ### Primeira Linguagem (Recomendo Python ou JavaScript)
 - **Sintaxe Básica**: variáveis, tipos de dados, operadores
@@ -31,7 +31,7 @@
 - Plataformas: HackerRank, LeetCode (problemas fáceis), URI Online Judge
 - Projetos simples: calculadora, jogos básicos, conversor de unidades
 
-## 📊 Fase 3: Estruturas de Dados (2-3 meses)
+## 📊 Fase 3: Estruturas de Dados
 
 ### Estruturas Lineares
 - **Arrays/Listas**: operações básicas, indexação
@@ -52,7 +52,7 @@
 - Representação: lista de adjacência, matriz de adjacência
 - Conceitos básicos: vértices, arestas, grau, caminhos
 
-## 🔄 Fase 4: Algoritmos (3-4 meses)
+## 🔄 Fase 4: Algoritmos
 
 ### Algoritmos de Busca
 - **Busca Linear** e **Busca Binária**
@@ -74,7 +74,7 @@
 - **Espacial**: uso de memória
 - **Notação Big O, Θ, Ω**: análise assintótica
 
-## 🏗️ Fase 5: Paradigmas de Programação (2-3 meses)
+## 🏗️ Fase 5: Paradigmas de Programação
 
 ### Programação Orientada a Objetos (OOP)
 - **Conceitos Fundamentais**: classes, objetos, instâncias
@@ -99,7 +99,7 @@
 - **Programação Reativa**: observables, streams
 - **Programação Concorrente**: threads, async/await
 
-## 💾 Fase 6: Bases de Dados (2 meses)
+## 💾 Fase 6: Bases de Dados
 
 ### Bancos Relacionais
 - **SQL**: SELECT, INSERT, UPDATE, DELETE
@@ -113,7 +113,7 @@
 - **MongoDB**: operações básicas
 - **Quando usar SQL vs NoSQL**
 
-## 🌐 Fase 7: Desenvolvimento Web/Mobile (3-4 meses)
+## 🌐 Fase 7: Desenvolvimento Web/Mobile
 
 ### Frontend (escolher uma stack)
 - **HTML5**: semântica, acessibilidade
@@ -130,7 +130,7 @@
 ### Mobile (opcional)
 - **React Native**, **Flutter**, ou desenvolvimento nativo
 
-## ☁️ Fase 8: DevOps e Ferramentas (2 meses)
+## ☁️ Fase 8: DevOps e Ferramentas
 
 ### Controle de Versão
 - **Git**: init, add, commit, push, pull, merge, branching
@@ -146,7 +146,7 @@
 - **Cloud Providers**: AWS/Azure/GCP (conceitos básicos)
 - **CI/CD**: GitHub Actions, pipelines básicos
 
-## 🧪 Fase 9: Qualidade de Código (1-2 meses)
+## 🧪 Fase 9: Qualidade de Código
 
 ### Testes
 - **Unitários**: frameworks de teste da linguagem escolhida
@@ -160,7 +160,7 @@
 - **Refactoring**: técnicas de melhoria de código
 - **Padrões de Projeto**: além dos básicos
 
-## 🚀 Fase 10: Especialização e Projeto Final (2-3 meses)
+## 🚀 Fase 10: Especialização e Projeto Final
 
 ### Áreas de Especialização (escolher 1-2)
 - **Web Development**: Full-stack, Frontend, Backend
@@ -176,38 +176,6 @@
 - **Documentação**: README, API docs
 - **Testes**: cobertura adequada
 
-## 📚 Recursos de Estudo Recomendados
-
-### Livros Fundamentais
-- "Algoritmos: Teoria e Prática" - Cormen
-- "Estruturas de Dados e Algoritmos em Python" - Goodrich
-- "Código Limpo" - Robert Martin
-- "Padrões de Projetos" - Gang of Four
-- "Arquitetura Limpa" - Robert Martin
-
-### Plataformas Online
-- **Teoria**: Khan Academy, Coursera, edX
-- **Prática**: HackerRank, LeetCode, Codewars
-- **Projetos**: freeCodeCamp, The Odin Project
-- **Vídeos**: YouTube channels específicos da linguagem
-
-### Comunidades
-- Stack Overflow para dúvidas
-- GitHub para código open source
-- Reddit (r/programming, r/learnprogramming)
-- Discord/Slack de desenvolvedores locais
-
-## ⏱️ Cronograma Sugerido
-
-**Total: 18-24 meses** (estudando 2-3h por dia)
-
-- **Meses 1-3**: Fundamentos + Programação Básica
-- **Meses 4-6**: Estruturas de Dados + Algoritmos  
-- **Meses 7-9**: OOP + Programação Funcional + Databases
-- **Meses 10-13**: Web/Mobile Development + DevOps
-- **Meses 14-16**: Testes + Clean Code + Especialização
-- **Meses 17-18**: Projeto Final + Job Preparation
-
 ## 💡 Dicas Importantes
 
 1. **Prática Constante**: code todos os dias, mesmo que 30min
@@ -217,7 +185,3 @@
 5. **Inglês Técnico**: essencial para documentação e vagas
 6. **Soft Skills**: comunicação, trabalho em equipe, resolução de problemas
 7. **Never Stop Learning**: tecnologia evolui rapidamente
-
----
-
-*"A jornada de mil linhas de código começa com um único `console.log('Hello World!')`"* 🚀
