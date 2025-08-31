@@ -20,7 +20,7 @@
 
 ## 🔧 Fase 2: Programação Básica
 
-### Primeira Linguagem Python)
+### Primeira Linguagem (Python)
 - **Sintaxe Básica**: variáveis, tipos de dados, operadores
 - **Estruturas de Controle**: if/else, loops (for, while)
 - **Funções**: definição, parâmetros, retorno, escopo
